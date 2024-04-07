@@ -24,14 +24,14 @@ Sample data contracts for data integration with Python
 1. install packages via
   
     ```shell
-    cd sample-data-contracts-py/src
-    pip install --no-cache-dir -r requirements.txt
+    cd sample-data-contracts-py
+    pip install --no-cache-dir -r src/requirements.txt
     ```
 
 1. start Flask using
 
     ```shell
-    python3 app.py
+    python3 src/app.py
     ```
 
 1. the api will be ready on port 4001
