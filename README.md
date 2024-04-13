@@ -9,9 +9,9 @@ Sample data contracts for data integration with Python
 
 ## blog related
 
-- [EN] [Data contracts in (real-time) action (with Python)]()
-- [TH] [สัญญา(ไม่)ปากเปล่า - data contracts in action (Python)]()
-- [Medium] [Data contracts in (real-time) action (with Python)]()
+- [EN] [Data contracts in (real-time) action (with Python)](https://www.bluebirz.net/en/data-contracts-in-real-time-action-with-python/)
+- [TH] [สัญญา(ไม่)ปากเปล่า - data contracts in action (Python)](https://www.bluebirz.net/th/data-contracts-in-real-time-action-with-python-th/)
+- [Medium] [Data contracts in (real-time) action (with Python)](https://medium.com/@bluebirz/data-contracts-in-real-time-action-with-python-28f6f99ad0e9)
 
 ## How to run
 
